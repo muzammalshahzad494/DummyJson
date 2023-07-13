@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2C158705-2F21-49CD-B13D-7BF2CD0E07CC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A31799D7-3301-49CE-B355-B00F1ED359A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DummyJSON/Controllers/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "565D857B-6EB2-47F2-9B81-035DA96D0F5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DummyJSON/Controllers/SingleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tapUserCart(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94B4342F-121C-4E43-BD73-0D00DF842CD4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DummyJSON/Controllers/SingleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tapUserPost(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1062FEE3-9BF9-4328-A173-22AF7C0A4938"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DummyJSON/Controllers/SingleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "tapUserTodo(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAA431BC-ECE7-4587-83FE-6EE1BD9891B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DummyJSON/NetworkService/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "createRequest(route:method:parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAA431BC-ECE7-4587-83FE-6EE1BD9891B6 - 42818e4f7f45289e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DummyJSON.NetworkService.createRequest(route: DummyJSON.Route, method: DummyJSON.Method, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "DummyJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muzammalshahzad/Documents/Synares%20Projects%20/DummyJSON/DummyJSON/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "847">
+               </Location>
+               <Location
+                  uuid = "FAA431BC-ECE7-4587-83FE-6EE1BD9891B6 - 42818e4f7f45289e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DummyJSON.NetworkService.createRequest(route: DummyJSON.Route, method: DummyJSON.Method, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "DummyJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muzammalshahzad/Documents/Synares%20Projects%20/DummyJSON/DummyJSON/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "925">
+               </Location>
+               <Location
+                  uuid = "FAA431BC-ECE7-4587-83FE-6EE1BD9891B6 - 42818e4f7f45289e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DummyJSON.NetworkService.createRequest(route: DummyJSON.Route, method: DummyJSON.Method, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "DummyJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muzammalshahzad/Documents/Synares%20Projects%20/DummyJSON/DummyJSON/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "2687">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
